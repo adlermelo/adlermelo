@@ -1,4 +1,4 @@
-## Hello my name is Adler Melo i'm software engineer.
+## Hello my name is Adler Melo i'm software developer.
 <div align="center">
   <a href="https://github.com/adlermelo">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adlermelo&theme=dark&show_icons=true&count_private=true(https://github.com/adlermelo)"/>
