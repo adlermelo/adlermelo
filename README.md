@@ -22,8 +22,6 @@ Apaixonado por tecnologia, educação e por mudar tudo a minha volta através da
   ##
  
 <div> 
-  <a href = "mailto:adlermelo.adm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adler-melo-02728a234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/adlermelo/adlermelo/blob/master/svg/github-contribution-grid-snake.svg)
 
