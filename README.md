@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adler-melo-02728a234/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adlermelo.adm@gmail.com)
 
-![Adler Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&theme=dracula&count_private=true)
+
 
 ![Adler Melo GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&layout=compact&theme=dracula&count_private=true)
 
