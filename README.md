@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adlermelo.adm@gmail.com)
 
 ![Adler Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&theme=dracula&count_private=true)
+
 ![Adler Melo GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&layout=compact&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
