@@ -30,5 +30,7 @@ Apaixonado por tecnologia, educação e por mudar tudo a minha volta através da
 ##
 
 <div> 
+
   ![Snake animation](https://github.com/adlermelo/adlermelo/blob/master/svg/github-contribution-grid-snake.svg)
+
 </div>
