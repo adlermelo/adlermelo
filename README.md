@@ -6,10 +6,10 @@
 <table>
    <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&layout=compact&theme=onedark&count_private=true&include_all_commits=true" width="420" height="200">
+      <img src="https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&layout=compact&theme=merko&count_private=true&include_all_commits=true" width="420" height="200">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&layout=compact&theme=onedark&count_private=true" width="400" height="170">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&layout=compact&theme=merko&count_private=true" width="400" height="170">
     </td>
   </tr>
 </table>
