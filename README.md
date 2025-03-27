@@ -9,7 +9,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&layout=compact&theme=merko&count_private=true&include_all_commits=true" width="420" height="200">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&hide_progress=true&layout=compact&theme=merko&langs_count=8" width="400" height="170">       
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&layout=compact&theme=merko&count_private=true&langs_count=8" width="400" height="170">       
     </td>
   </tr>
 </table>
