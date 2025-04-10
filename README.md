@@ -9,7 +9,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&layout=compact&theme=merko&count_private=true&include_all_commits=true" width="420" height="200">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adlermelo&show_icons=true&layout=compact&theme=merko&count_private=true&include_all_commits=true" width="420" height="200" alt="Adler Melo GitHub stats">       
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlermelo&exclude_repo=github-readme-stats,adlermelo.github.io" width="420" height="200" alt="Adler Melo GitHub stats">       
     </td>
   </tr>
 </table>
